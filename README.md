@@ -38,3 +38,24 @@ git clone https://github.com/YourUsername/SQL-CheatSheets.git
 
 Contributions are welcome! Feel free to submit PRs for more queries, functions, or examples.
 
+--- 
+
+## 👨‍💻 Author
+
+---
+### Adarsh Lilhare 
+
+🎓 B.Tech in Artificial Intelligence & Data Science
+
+💼 AI | Data Science | Computer Vision Enthusiast
+
+📧 [Email](adarshlilhare@example.com)
+
+🐙 [GitHub](https://github.com/AdarshVL) 
+
+🌐 [Portfolio](https://adarshlilhare.dev)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/adarsh-lilhare-b98a91290/)
+
+---
+
